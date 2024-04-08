@@ -1,5 +1,5 @@
 variable "region" {
-  default = "us-east-1"
+  default = "us-west-2"
 }
 
 variable "vpc_cidr" {
@@ -11,7 +11,7 @@ variable "subnet_cidr" {
 }
 
 variable "zone" {
-  default = "us-east-1a"
+  default = "us-west-2a"
 }
 
 variable "enable_dns_support" {

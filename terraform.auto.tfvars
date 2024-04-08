@@ -14,14 +14,14 @@ enable_dns_hostnames = "true"
 
 environment = "dev"
 
-ami-jenkins = "ami-04dd78f3ac2d22a8c"
+ami-jenkins = "ami-0aceace069d9007cf"
 
 keypair = "devops"
 
-account_no = "486356681924"
+account_no = "992382761454"
 
 tags = {
-  Owner-Email     = "olaiyaolaminiyi@gmail.com"
+  Owner-Email     = "olaiya.niyi@yahoo.co.uk"
   Managed-By      = "Terraform"
-  Billing-Account = "486356681924"
+  Billing-Account = "992382761454"
 }
