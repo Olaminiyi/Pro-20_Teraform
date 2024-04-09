@@ -14,7 +14,7 @@ enable_dns_hostnames = "true"
 
 environment = "dev"
 
-ami-jenkins = "ami-0227e864e32defd9b"
+ami-jenkins = "ami-06e852b51e162f938"
 
 keypair = "devops"
 
