@@ -14,7 +14,7 @@ enable_dns_hostnames = "true"
 
 environment = "dev"
 
-ami-jenkins = "ami-0aceace069d9007cf"
+ami-jenkins = "ami-0227e864e32defd9b"
 
 keypair = "devops"
 
@@ -25,3 +25,4 @@ tags = {
   Managed-By      = "Terraform"
   Billing-Account = "992382761454"
 }
+####
